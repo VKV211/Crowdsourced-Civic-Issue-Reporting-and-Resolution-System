@@ -1,0 +1,16 @@
+# Flutter
+build/
+**/build/
+ephemeral/
+**/ephemeral/
+.plugin_symlinks/
+
+# Android
+.gradle/
+local.properties
+
+# Node
+node_modules/
+
+# Others
+.env
